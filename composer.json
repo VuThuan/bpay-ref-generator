@@ -1,5 +1,5 @@
 {
-    "name": "vuthuan/bpay-ref-generator",
+    "name": "fontis/bpay-ref-generator",
     "description": "Generate BPAY customer reference numbers",
     "type": "library",
     "license": "OSL-3.0",
